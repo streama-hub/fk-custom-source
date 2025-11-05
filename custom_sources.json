@@ -242,6 +242,59 @@
           ]
         }
       ]
+    },
+    {
+      "api_id": 34,
+      "id": "solo-leveling-henshū",
+      "name": "Solo Leveling Henshū",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "urls": [
+                "https://app.videas.fr/e086a792-9567-492d-b91e-ea32ecb6b24c/"
+              ]
+            },
+            {
+              "episode_number": 2,
+              "urls": [
+                "https://app.videas.fr/b95e9764-18e3-4939-8b58-f20e64ca6309/"
+              ]
+            },
+            {
+              "episode_number": 3,
+              "urls": [
+                "https://app.videas.fr/079975d6-a45d-41ba-bfc5-02d9758d599e/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes": [
+            {
+              "episode_number": 4,
+              "urls": [
+                "https://app.videas.fr/c9678d28-d335-4510-ac08-508b07edd33b/"
+              ]
+            },
+            {
+              "episode_number": 5,
+              "urls": [
+                "https://app.videas.fr/26569ea7-99df-4172-9ac3-c2f4f4021311/"
+              ]
+            },
+            {
+              "episode_number": 6,
+              "urls": [
+                "https://app.videas.fr/212e00cc-630e-4965-b579-9a014b5127aa/"
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
