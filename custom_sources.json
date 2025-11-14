@@ -295,6 +295,123 @@
           ]
         }
       ]
+    },
+    {
+      "api_id": 40,
+      "id": "sword-art-online-kaï",
+      "name": "Sword Art Online Kaï",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "urls": [
+                "https://app.videas.fr/03248d58-422b-4941-bf1e-910337cc7bc6/"
+              ]
+            },
+            {
+              "episode_number": 2,
+              "urls": [
+                "https://app.videas.fr/3df5ba3b-07a6-467e-bbf5-8cf6f0fdd491/"
+              ]
+            },
+            {
+              "episode_number": 3,
+              "urls": [
+                "https://app.videas.fr/18a563f8-9fc9-483d-ab5b-8bbf720faa3c/"
+              ]
+            },
+            {
+              "episode_number": 4,
+              "urls": [
+                "https://app.videas.fr/14e24218-087f-49c4-bc6f-bb7b72b666c5/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes": [
+            {
+              "episode_number": 5,
+              "urls": [
+                "https://app.videas.fr/6ddce8e8-7257-4029-8f90-09bfb4bdd157/"
+              ]
+            },
+            {
+              "episode_number": 6,
+              "urls": [
+                "https://app.videas.fr/bca4a66a-186a-47c1-a77c-16529a4485a4/"
+              ]
+            },
+            {
+              "episode_number": 7,
+              "urls": [
+                "https://app.videas.fr/b176dc98-2828-45f9-914a-307c84adccdb/"
+              ]
+            },
+            {
+              "episode_number": 8,
+              "urls": [
+                "https://app.videas.fr/2b76c6e9-b972-461d-b372-0a18f47e7554/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes": [
+            {
+              "episode_number": 9,
+              "urls": [
+                "https://app.videas.fr/e3673e17-059d-4361-a858-87413b0f5310/"
+              ]
+            },
+            {
+              "episode_number": 10,
+              "urls": [
+                "https://app.videas.fr/d2e1159e-58b4-4bc0-86e8-e68feede34d0/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes": [
+            {
+              "episode_number": 11,
+              "urls": [
+                "https://app.videas.fr/84addeda-cbbb-40f8-ac81-98fa17cd6684/"
+              ]
+            },
+            {
+              "episode_number": 12,
+              "urls": [
+                "https://app.videas.fr/5ff0ee7d-3ad2-4417-a201-129304dddd3c/"
+              ]
+            },
+            {
+              "episode_number": 13,
+              "urls": [
+                "https://app.videas.fr/137ef1e5-a582-4e15-baa2-26b2b1fbe49a/"
+              ]
+            },
+            {
+              "episode_number": 14,
+              "urls": [
+                "https://app.videas.fr/d5989a78-63a1-45f8-a6c7-54f810cbb42c/"
+              ]
+            },
+            {
+              "episode_number": 15,
+              "urls": [
+                "https://app.videas.fr/7f70aaaf-7129-40e5-bce7-d66fb3c226d5/"
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
