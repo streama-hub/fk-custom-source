@@ -244,6 +244,141 @@
       ]
     },
     {
+      "api_id": 25,
+      "id": "naruto-yabai",
+      "name": "Naruto Yabai",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "urls": [
+                "https://app.videas.fr/95e48625-8090-4116-a036-3d43c46e80b0/"
+              ]
+            },
+            {
+              "episode_number": 2,
+              "urls": [
+                "https://app.videas.fr/67249759-62bc-4419-8a57-6fe65dff210b/"
+              ]
+            },
+            {
+              "episode_number": 3,
+              "urls": [
+                "https://app.videas.fr/1eeb122d-03fa-455d-8a18-fcc7f18d3838/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes": [
+            {
+              "episode_number": 4,
+              "urls": [
+                "https://app.videas.fr/302ec9e8-6536-4a9f-bf64-8f51d10f99b3/"
+              ]
+            },
+            {
+              "episode_number": 5,
+              "urls": [
+                "https://app.videas.fr/988baa80-3b98-4f5c-a16a-ce7c3a76c01c/"
+              ]
+            },
+            {
+              "episode_number": 6,
+              "urls": [
+                "https://app.videas.fr/e53d1232-1ecf-423a-9cea-9e0be1e53c45/"
+              ]
+            },
+            {
+              "episode_number": 7,
+              "urls": [
+                "https://app.videas.fr/df5c6248-9246-412e-af03-913863f6f578/"
+              ]
+            },
+            {
+              "episode_number": 8,
+              "urls": [
+                "https://app.videas.fr/a466d267-39a8-4860-acce-18402c66634d/"
+              ]
+            },
+            {
+              "episode_number": 9,
+              "urls": [
+                "https://app.videas.fr/3721cd22-a303-4795-b55a-4e969d6a23c9/"
+              ]
+            },
+            {
+              "episode_number": 10,
+              "urls": [
+                "https://app.videas.fr/48e27a2f-a811-44ad-85f3-d2fbcb93f07f/"
+              ]
+            },
+            {
+              "episode_number": 11,
+              "urls": [
+                "https://app.videas.fr/85e7a6f6-767f-4d27-9b43-14a0169766de/"
+              ]
+            },
+            {
+              "episode_number": 12,
+              "urls": [
+                "https://app.videas.fr/f5ce433c-f9bb-4739-807c-ed559a794885/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes": [
+            {
+              "episode_number": 13,
+              "urls": [
+                "https://app.videas.fr/e071fe21-928c-4579-8165-e61503b14264/"
+              ]
+            },
+            {
+              "episode_number": 14,
+              "urls": [
+                "https://app.videas.fr/9983c669-3e18-4f29-a2d5-1c4f2a0efe64/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes": [
+            {
+              "episode_number": 15,
+              "urls": [
+                "https://app.videas.fr/3777d212-c078-4968-9baf-f0e4c8a8afc6/"
+              ]
+            },
+            {
+              "episode_number": 16,
+              "urls": [
+                "https://app.videas.fr/1095ec30-f47b-43f6-96ac-7ffb810eade3/"
+              ]
+            },
+            {
+              "episode_number": 17,
+              "urls": [
+                "https://app.videas.fr/1ce93185-0023-4e4c-8d10-05b8779e8156/"
+              ]
+            },
+            {
+              "episode_number": 18,
+              "urls": [
+                "https://app.videas.fr/7dc2ee40-9e0b-418f-8fec-9efa9cab32e7/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "api_id": 34,
       "id": "solo-leveling-henshū",
       "name": "Solo Leveling Henshū",
