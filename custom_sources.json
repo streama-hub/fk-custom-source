@@ -1192,6 +1192,235 @@
       ]
     },
     {
+      "api_id": 31,
+      "id": "hokuto-no-ken-kaï",
+      "name": "Hokuto No Ken Kaï",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "urls": [
+                "https://app.videas.fr/4483bcc9-a3ee-45c3-9eff-a7b7b91e0e61/"
+              ]
+            },
+            {
+              "episode_number": 2,
+              "urls": [
+                "https://app.videas.fr/fcd11891-5865-43a5-a6aa-e8700a5d13b5/"
+              ]
+            },
+            {
+              "episode_number": 3,
+              "urls": [
+                "https://app.videas.fr/ecf88a20-3f58-41c3-b704-d1ab4bb37676/"
+              ]
+            },
+            {
+              "episode_number": 4,
+              "urls": [
+                "https://app.videas.fr/58eca19e-23ea-48b0-a7ee-3300e2fbf984/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes": [
+            {
+              "episode_number": 5,
+              "urls": [
+                "https://app.videas.fr/6577f9cc-6530-4e27-bf47-e7d712e0c592/"
+              ]
+            },
+            {
+              "episode_number": 6,
+              "urls": [
+                "https://app.videas.fr/86c121fa-82b0-4513-9a8b-5accb746563f/"
+              ]
+            },
+            {
+              "episode_number": 7,
+              "urls": [
+                "https://app.videas.fr/8f535dd1-2fd8-4caf-8610-9358b1ed5830/"
+              ]
+            },
+            {
+              "episode_number": 8,
+              "urls": [
+                "https://app.videas.fr/0230d5c2-9c4b-48a4-9b56-b79e67374e3e/"
+              ]
+            },
+            {
+              "episode_number": 9,
+              "urls": [
+                "https://app.videas.fr/469ba5c7-79b1-4db8-a27f-9db45382d214/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes": [
+            {
+              "episode_number": 10,
+              "urls": [
+                "https://app.videas.fr/94e691ad-e9af-4a7d-ab6d-01b23e0f6851/"
+              ]
+            },
+            {
+              "episode_number": 11,
+              "urls": [
+                "https://app.videas.fr/5eb07490-b91b-4d75-b967-2cfda7f0c691/"
+              ]
+            },
+            {
+              "episode_number": 12,
+              "urls": [
+                "https://app.videas.fr/b443d86a-4529-4f5d-93c6-fb0b7fe2ce22/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes": [
+            {
+              "episode_number": 13,
+              "urls": [
+                "https://app.videas.fr/dfd98881-c1c6-4881-ba44-919195604d16/"
+              ]
+            },
+            {
+              "episode_number": 14,
+              "urls": [
+                "https://app.videas.fr/e0d788c2-7d60-42bd-9a40-ae6e02199aaa/"
+              ]
+            },
+            {
+              "episode_number": 15,
+              "urls": [
+                "https://app.videas.fr/292546ae-970f-4b43-a085-c4ca071b37ba/"
+              ]
+            },
+            {
+              "episode_number": 16,
+              "urls": [
+                "https://app.videas.fr/bd5e5ff4-6c86-4e94-9c97-d4b44f534c1f/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 5,
+          "episodes": [
+            {
+              "episode_number": 18,
+              "urls": [
+                "https://app.videas.fr/92817b66-23ff-4ccc-91fe-433aa9948794/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 6,
+          "episodes": [
+            {
+              "episode_number": 19,
+              "urls": [
+                "https://app.videas.fr/ce9ebffc-1b82-4e82-99a3-ee7b9af11d5a/"
+              ]
+            },
+            {
+              "episode_number": 20,
+              "urls": [
+                "https://app.videas.fr/ac9ae43d-35fd-4b9c-8698-5e68eec57bc6/"
+              ]
+            },
+            {
+              "episode_number": 21,
+              "urls": [
+                "https://app.videas.fr/c86e8bca-b28d-4809-b0b0-a98ee47123df/"
+              ]
+            },
+            {
+              "episode_number": 22,
+              "urls": [
+                "https://app.videas.fr/33f2b353-dc36-4987-8320-6c7859a32031/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": 33,
+      "id": "horimiya-kaï",
+      "name": "Horimiya Kaï",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "urls": [
+                "https://app.videas.fr/66e8a413-0199-4592-9f0a-fc67c7b28691/"
+              ]
+            },
+            {
+              "episode_number": 2,
+              "urls": [
+                "https://app.videas.fr/0b461621-03f9-4784-8577-99866d3897b7/"
+              ]
+            },
+            {
+              "episode_number": 3,
+              "urls": [
+                "https://app.videas.fr/b4a41cc0-59b8-4be6-bcee-f02663c69a96/"
+              ]
+            },
+            {
+              "episode_number": 4,
+              "urls": [
+                "https://app.videas.fr/d017f5f2-1401-465e-bff4-0e9d2664d1f8/"
+              ]
+            },
+            {
+              "episode_number": 5,
+              "urls": [
+                "https://app.videas.fr/5484eb17-3cd5-424e-b90e-5a4f3ec686a1/"
+              ]
+            },
+            {
+              "episode_number": 6,
+              "urls": [
+                "https://app.videas.fr/8131b31c-db32-468f-9dda-87eec946c926/"
+              ]
+            },
+            {
+              "episode_number": 7,
+              "urls": [
+                "https://app.videas.fr/dc218aee-9d89-4658-ba65-4a2765f7264f/"
+              ]
+            },
+            {
+              "episode_number": 8,
+              "urls": [
+                "https://app.videas.fr/63775463-79e4-4f8c-a9e9-ececd3a3d6ad/"
+              ]
+            },
+            {
+              "episode_number": 9,
+              "urls": [
+                "https://app.videas.fr/947f2101-e7a6-4b0e-811b-77578cdc94e2/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "api_id": 34,
       "id": "solo-leveling-henshū",
       "name": "Solo Leveling Henshū",
@@ -1399,6 +1628,12 @@
         {
           "season_number": 1,
           "episodes": [
+            {
+              "episode_number": 1,
+              "urls": [
+                "https://app.videas.fr/636ca638-51ae-408c-ad7d-3be4a9960051/"
+              ]
+            },
             {
               "episode_number": 2,
               "urls": [
@@ -2534,6 +2769,89 @@
       ]
     },
     {
+      "api_id": 56,
+      "id": "gto-kaï",
+      "name": "GTO Kaï",
+      "seasons": [
+        {
+          "season_number": 0,
+          "episodes": [
+            {
+              "episode_number": 8,
+              "urls": [
+                "https://app.videas.fr/faf3f747-3457-4cb0-9464-454c3a5a2f2a/"
+              ]
+            },
+            {
+              "episode_number": 10,
+              "urls": [
+                "https://app.videas.fr/4e4de983-07ed-4482-992a-46429a5f5f60/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "urls": [
+                "https://app.videas.fr/6d3888c8-cfbe-4828-80a1-49c9942da3d0/"
+              ]
+            },
+            {
+              "episode_number": 2,
+              "urls": [
+                "https://app.videas.fr/39d2e993-0a5b-4924-b3b7-c8ad091e5be3/"
+              ]
+            },
+            {
+              "episode_number": 3,
+              "urls": [
+                "https://app.videas.fr/f5b95418-f9e4-4f3e-8cb3-db472a5d8674/"
+              ]
+            },
+            {
+              "episode_number": 4,
+              "urls": [
+                "https://app.videas.fr/922b39c6-2103-476e-aa0e-f851080bdcb9/"
+              ]
+            },
+            {
+              "episode_number": 5,
+              "urls": [
+                "https://app.videas.fr/0175a6e2-0fd3-45ce-a4c4-d850399e3dbb/"
+              ]
+            },
+            {
+              "episode_number": 6,
+              "urls": [
+                "https://app.videas.fr/b1701ebd-db4f-4917-a1b8-bb22a859feca/"
+              ]
+            },
+            {
+              "episode_number": 7,
+              "urls": [
+                "https://app.videas.fr/7c5f8df1-b271-489d-bc81-bf68112d4e5b/"
+              ]
+            },
+            {
+              "episode_number": 8,
+              "urls": [
+                "https://app.videas.fr/b02f8d7b-86aa-4f84-ac6c-090c0d3fbb82/"
+              ]
+            },
+            {
+              "episode_number": 9,
+              "urls": [
+                "https://app.videas.fr/e4b26ec8-57ca-4347-9add-70217e7864cc/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "api_id": 60,
       "id": "dragon-ball-super-kaï",
       "name": "Dragon Ball Super Kaï",
@@ -2620,6 +2938,190 @@
               "episode_number": 11,
               "urls": [
                 "https://app.videas.fr/c52521fa-cd5b-4638-b6c2-ed146b795b98/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": 64,
+      "id": "hajime-no-ippo-henshū",
+      "name": "Hajime No Ippo Henshū",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "urls": [
+                "https://app.videas.fr/e28db446-7386-4de0-bd22-1302ca37293f/"
+              ]
+            },
+            {
+              "episode_number": 2,
+              "urls": [
+                "https://app.videas.fr/a384e97e-93d3-46a8-aaf3-d3e30cbccc47/"
+              ]
+            },
+            {
+              "episode_number": 3,
+              "urls": [
+                "https://app.videas.fr/87b32434-0611-4aa7-8222-84d8fe8ad7b4/"
+              ]
+            },
+            {
+              "episode_number": 4,
+              "urls": [
+                "https://app.videas.fr/50b4acfa-7685-4bf4-a257-03421520297e/"
+              ]
+            },
+            {
+              "episode_number": 5,
+              "urls": [
+                "https://app.videas.fr/784c6f90-0d00-4ddd-a450-ef1c54682054/"
+              ]
+            },
+            {
+              "episode_number": 6,
+              "urls": [
+                "https://app.videas.fr/a4d3aa73-8de4-400b-a66e-594f17816619/"
+              ]
+            },
+            {
+              "episode_number": 7,
+              "urls": [
+                "https://app.videas.fr/3066e89b-4675-4c4b-b702-9ccf4b7885b5/"
+              ]
+            },
+            {
+              "episode_number": 8,
+              "urls": [
+                "https://app.videas.fr/9706f0c2-e7ce-4a08-8767-0417ba3dc9d9/"
+              ]
+            },
+            {
+              "episode_number": 9,
+              "urls": [
+                "https://app.videas.fr/e4a2649c-d26f-411b-a482-cfe150d6e596/"
+              ]
+            },
+            {
+              "episode_number": 10,
+              "urls": [
+                "https://app.videas.fr/6e96c696-f4af-47f3-b4a9-9853c2c1959f/"
+              ]
+            },
+            {
+              "episode_number": 11,
+              "urls": [
+                "https://app.videas.fr/b53a079f-b0a0-4004-ae3e-d8207662a828/"
+              ]
+            },
+            {
+              "episode_number": 12,
+              "urls": [
+                "https://app.videas.fr/24284b72-1cc1-410e-bcbe-5a0adb379f99/"
+              ]
+            },
+            {
+              "episode_number": 13,
+              "urls": [
+                "https://app.videas.fr/85caec52-dbf1-4fa5-9d89-6dfa6cdd4df9/"
+              ]
+            },
+            {
+              "episode_number": 14,
+              "urls": [
+                "https://app.videas.fr/0abf417b-0bff-4196-ac56-39b085e63110/"
+              ]
+            },
+            {
+              "episode_number": 15,
+              "urls": [
+                "https://app.videas.fr/198b4df0-020a-4170-9331-283ddb816fb5/"
+              ]
+            },
+            {
+              "episode_number": 16,
+              "urls": [
+                "https://app.videas.fr/8270a779-84ce-455a-808e-8b3f8254fce4/"
+              ]
+            },
+            {
+              "episode_number": 17,
+              "urls": [
+                "https://app.videas.fr/aabab9ba-59a3-4819-a900-067f6524f335/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes": [
+            {
+              "episode_number": 18,
+              "urls": [
+                "https://app.videas.fr/f4a51dc6-9474-48fe-94d1-3f2d733e6b32/"
+              ]
+            },
+            {
+              "episode_number": 19,
+              "urls": [
+                "https://app.videas.fr/66ac95ab-fb8e-4d4c-b299-0f31f3a31c59/"
+              ]
+            },
+            {
+              "episode_number": 20,
+              "urls": [
+                "https://app.videas.fr/9115ce2e-756a-4cf8-9f41-aab1eacaa2fd/"
+              ]
+            },
+            {
+              "episode_number": 21,
+              "urls": [
+                "https://app.videas.fr/6a2a4307-be25-4498-b37b-9a0aeb330be9/"
+              ]
+            },
+            {
+              "episode_number": 22,
+              "urls": [
+                "https://app.videas.fr/378889e6-acfa-4fd1-a60b-c2bbecfc1592/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes": [
+            {
+              "episode_number": 23,
+              "urls": [
+                "https://app.videas.fr/a8983308-2176-44a0-924e-299828b52e03/"
+              ]
+            },
+            {
+              "episode_number": 24,
+              "urls": [
+                "https://app.videas.fr/74cdb8ef-a956-4af6-983c-73d125e2e823/"
+              ]
+            },
+            {
+              "episode_number": 26,
+              "urls": [
+                "https://app.videas.fr/bdd6cf95-e1d8-439d-b180-380eb27fdec5/"
+              ]
+            },
+            {
+              "episode_number": 27,
+              "urls": [
+                "https://app.videas.fr/a37acf88-b580-481c-9f9d-36dcd2ef1230/"
+              ]
+            },
+            {
+              "episode_number": 28,
+              "urls": [
+                "https://app.videas.fr/595b1aac-d16a-40b5-8533-a3c1c1a8adae/"
               ]
             }
           ]
@@ -2784,6 +3286,217 @@
       ]
     },
     {
+      "api_id": 71,
+      "id": "hunter-x-hunter-kaï-(2011)",
+      "name": "Hunter x Hunter Kaï (2011)",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "urls": [
+                "https://app.videas.fr/7e719d81-f294-4721-a98c-e9fc05226828/"
+              ]
+            },
+            {
+              "episode_number": 2,
+              "urls": [
+                "https://app.videas.fr/9244e3b2-5fbe-439b-b0b8-a03c75635bcc/"
+              ]
+            },
+            {
+              "episode_number": 3,
+              "urls": [
+                "https://app.videas.fr/c5b5ebad-b2c1-45ac-9f3c-0f1c71fe4ecb/"
+              ]
+            },
+            {
+              "episode_number": 4,
+              "urls": [
+                "https://app.videas.fr/c765d773-167c-489a-a978-f3e6fbc8e79d/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes": [
+            {
+              "episode_number": 5,
+              "urls": [
+                "https://app.videas.fr/0b62d915-278e-413d-91ec-bfdfbfd21009/"
+              ]
+            },
+            {
+              "episode_number": 6,
+              "urls": [
+                "https://app.videas.fr/1bce0d2f-2269-4223-9d25-2db00651154e/"
+              ]
+            },
+            {
+              "episode_number": 7,
+              "urls": [
+                "https://app.videas.fr/3fa4abb5-bcb8-4605-b3a5-2e72664ab417/"
+              ]
+            },
+            {
+              "episode_number": 8,
+              "urls": [
+                "https://app.videas.fr/08c6db5c-8731-4905-bc99-ff460d5896fc/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes": [
+            {
+              "episode_number": 9,
+              "urls": [
+                "https://app.videas.fr/c6c12830-fbd3-4a1a-a8e5-2874f7981953/"
+              ]
+            },
+            {
+              "episode_number": 10,
+              "urls": [
+                "https://app.videas.fr/4c201627-5ec4-4ddc-a57e-a622c00609eb/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes": [
+            {
+              "episode_number": 11,
+              "urls": [
+                "https://app.videas.fr/feb19b3e-9d00-4ce3-b81c-2227ebeefde0/"
+              ]
+            },
+            {
+              "episode_number": 12,
+              "urls": [
+                "https://app.videas.fr/b89955b9-1cf4-4ec4-8d38-ddd7ea951dcb/"
+              ]
+            },
+            {
+              "episode_number": 13,
+              "urls": [
+                "https://app.videas.fr/60967c40-6740-4da8-9056-5630b3f809da/"
+              ]
+            },
+            {
+              "episode_number": 14,
+              "urls": [
+                "https://app.videas.fr/07afdae1-dd5b-4ca7-aeca-a0d3ba7cdd83/"
+              ]
+            },
+            {
+              "episode_number": 15,
+              "urls": [
+                "https://app.videas.fr/89551694-f5ba-4176-81f0-771d9d26ebdd/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": 74,
+      "id": "tokyo-revengers-henshū",
+      "name": "Tokyo Revengers Henshū",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "urls": [
+                "https://app.videas.fr/f1a53441-5c61-4830-9cd4-4a8fb56e3041/"
+              ]
+            },
+            {
+              "episode_number": 2,
+              "urls": [
+                "https://app.videas.fr/8899d9b7-47f0-41a9-bef9-47bdd2650b68/"
+              ]
+            },
+            {
+              "episode_number": 3,
+              "urls": [
+                "https://app.videas.fr/0532d8da-daeb-43de-bf8b-fc642fde15f5/"
+              ]
+            },
+            {
+              "episode_number": 4,
+              "urls": [
+                "https://app.videas.fr/92bc9e0d-2f59-43c5-883e-229ab559f3b3/"
+              ]
+            },
+            {
+              "episode_number": 5,
+              "urls": [
+                "https://app.videas.fr/40ac06c4-53d7-471e-8005-9f2d16ef3847/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes": [
+            {
+              "episode_number": 6,
+              "urls": [
+                "https://app.videas.fr/f65b888a-9fc4-4b62-8663-c3099b3cebea/"
+              ]
+            },
+            {
+              "episode_number": 7,
+              "urls": [
+                "https://app.videas.fr/e2613642-e479-4a9e-a1d6-f14692984470/"
+              ]
+            },
+            {
+              "episode_number": 8,
+              "urls": [
+                "https://app.videas.fr/e1e2dd7f-5163-4923-a2f8-43e74ace381e/"
+              ]
+            },
+            {
+              "episode_number": 9,
+              "urls": [
+                "https://app.videas.fr/01357014-feea-427e-be9f-569160282c90/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes": [
+            {
+              "episode_number": 10,
+              "urls": [
+                "https://app.videas.fr/a19bfda5-1e2e-4216-8f12-d9792ab2375d/"
+              ]
+            },
+            {
+              "episode_number": 11,
+              "urls": [
+                "https://app.videas.fr/d3f66ce6-5418-491c-a461-0f0e15f1fce8/"
+              ]
+            },
+            {
+              "episode_number": 12,
+              "urls": [
+                "https://app.videas.fr/491251bb-09ff-4e7e-9ba7-2b097db835df/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "api_id": 76,
       "id": "frieren-henshū",
       "name": "Frieren Henshū",
@@ -2813,6 +3526,12 @@
               "episode_number": 4,
               "urls": [
                 "https://app.videas.fr/c6b6307d-8466-48a9-a1b5-a3ac31d14d4a/"
+              ]
+            },
+            {
+              "episode_number": 5,
+              "urls": [
+                "https://app.videas.fr/f558e9e1-59aa-4c12-a747-49b17e4a4c64/"
               ]
             },
             {
@@ -2978,6 +3697,24 @@
               "episode_number": 12,
               "urls": [
                 "https://app.videas.fr/235ac6ce-a71a-414e-bdf3-9b0536ddb1c6/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": 82,
+      "id": "hunter-x-hunter-kaï-(1999)",
+      "name": "Hunter x Hunter Kaï (1999)",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "urls": [
+                "https://app.videas.fr/15e68cda-8ab6-4af4-acc7-edab799259f2/"
               ]
             }
           ]
@@ -3459,6 +4196,29 @@
               "urls": [
                 "https://app.videas.fr/26996cbc-2109-40f5-84c6-0240fe1cf357/"
               ]
+            },
+            {
+              "episode_number": 4,
+              "urls": [
+                "https://app.videas.fr/e59c9e53-2656-4136-bcf7-43c3ed6642e4/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes": [
+            {
+              "episode_number": 5,
+              "urls": [
+                "https://app.videas.fr/0560cb42-22a8-49ef-b0a5-2463e008dc6a/"
+              ]
+            },
+            {
+              "episode_number": 6,
+              "urls": [
+                "https://app.videas.fr/7081d350-aad9-4a82-aa7b-b8aed2efdbfc/"
+              ]
             }
           ]
         }
@@ -3631,6 +4391,189 @@
               "episode_number": 5,
               "urls": [
                 "https://app.videas.fr/561a50c6-823d-4c82-85db-d42ecccfd351/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": 102,
+      "id": "haikyuu!!-henshū",
+      "name": "Haikyuu!! Henshū",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "episode_number": 1,
+              "urls": [
+                "https://app.videas.fr/1440b130-8a6c-42ee-8b46-e6893c33221b/"
+              ]
+            },
+            {
+              "episode_number": 2,
+              "urls": [
+                "https://app.videas.fr/79f1f180-8568-4cab-87a0-80580a1b86b9/"
+              ]
+            },
+            {
+              "episode_number": 3,
+              "urls": [
+                "https://app.videas.fr/b02d209b-12be-4d19-9764-31d337a26c11/"
+              ]
+            },
+            {
+              "episode_number": 4,
+              "urls": [
+                "https://app.videas.fr/0d889e48-7d89-4734-9cb5-9331a0739fa0/"
+              ]
+            },
+            {
+              "episode_number": 5,
+              "urls": [
+                "https://app.videas.fr/a8d95f90-e93c-4356-91bd-f0202af5fa84/"
+              ]
+            },
+            {
+              "episode_number": 6,
+              "urls": [
+                "https://app.videas.fr/29191399-a1ee-47f7-bfec-9c8ed77183a7/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 2,
+          "episodes": [
+            {
+              "episode_number": 7,
+              "urls": [
+                "https://app.videas.fr/9734db8c-14b4-4b35-a505-74fa6403fb90/"
+              ]
+            },
+            {
+              "episode_number": 8,
+              "urls": [
+                "https://app.videas.fr/60a51d1f-5a3a-40d2-8ac7-f36642d2c1c3/"
+              ]
+            },
+            {
+              "episode_number": 9,
+              "urls": [
+                "https://app.videas.fr/f83719d4-bbe5-4bab-9109-41feb175f0fb/"
+              ]
+            },
+            {
+              "episode_number": 10,
+              "urls": [
+                "https://app.videas.fr/b394a205-26f8-4e8f-94de-4013cdb71be2/"
+              ]
+            },
+            {
+              "episode_number": 11,
+              "urls": [
+                "https://app.videas.fr/bf22517f-e349-4d20-bd17-9883bfcf86dd/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 3,
+          "episodes": [
+            {
+              "episode_number": 12,
+              "urls": [
+                "https://app.videas.fr/21a2e712-0a33-430f-9c0a-e47079a9a328/"
+              ]
+            },
+            {
+              "episode_number": 13,
+              "urls": [
+                "https://app.videas.fr/a7fab490-c2b8-41bc-97cc-3a5b35035d09/"
+              ]
+            }
+          ]
+        },
+        {
+          "season_number": 4,
+          "episodes": [
+            {
+              "episode_number": 14,
+              "urls": [
+                "https://app.videas.fr/e2471b4b-638c-466a-a738-07886b618f78/"
+              ]
+            },
+            {
+              "episode_number": 15,
+              "urls": [
+                "https://app.videas.fr/26f9cebc-0283-44ea-81f5-5e0a3ed3c15f/"
+              ]
+            },
+            {
+              "episode_number": 16,
+              "urls": [
+                "https://app.videas.fr/8548dbc1-42de-4837-be1f-1ad327801a3b/"
+              ]
+            },
+            {
+              "episode_number": 17,
+              "urls": [
+                "https://app.videas.fr/29c548de-7df7-4551-9526-ca9c6898daa6/"
+              ]
+            },
+            {
+              "episode_number": 18,
+              "urls": [
+                "https://app.videas.fr/1aa6ae01-63c6-4360-aa29-034d9cd27524/"
+              ]
+            },
+            {
+              "episode_number": 19,
+              "urls": [
+                "https://app.videas.fr/8a155dee-6ab5-44bd-854d-699de880add5/"
+              ]
+            },
+            {
+              "episode_number": 20,
+              "urls": [
+                "https://app.videas.fr/086e0ab3-5f5d-45ea-89d8-3b9c38c7ebf8/"
+              ]
+            },
+            {
+              "episode_number": 21,
+              "urls": [
+                "https://app.videas.fr/d608ccd3-4aae-4ae9-a581-7eaee4b1ab37/"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "api_id": 103,
+      "id": "hikaru-no-go-henshū",
+      "name": "Hikaru No Go Henshū",
+      "seasons": [
+        {
+          "season_number": 1,
+          "episodes": [
+            {
+              "episode_number": 2,
+              "urls": [
+                "https://app.videas.fr/ec0ff4a8-948d-4f4e-bb59-9ec6f0d80db0/"
+              ]
+            },
+            {
+              "episode_number": 3,
+              "urls": [
+                "https://app.videas.fr/10d67080-6a2a-4ae8-858c-58fcd022e56e/"
+              ]
+            },
+            {
+              "episode_number": 4,
+              "urls": [
+                "https://app.videas.fr/9d82c0cd-45a9-47fb-8b5a-53f11be7b950/"
               ]
             }
           ]
